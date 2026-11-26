@@ -7,7 +7,7 @@
     {
       "binding": "DB",
       "database_name": "collins-stationery-db",
-      "database_id": "REPLACE_WITH_YOUR_D1_DATABASE_ID",
+      "database_id": "9287275d-785c-4576-a3f2-95744d06b675",
       "migrations_dir": "migrations"
     }
   ]
